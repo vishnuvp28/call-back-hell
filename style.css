@@ -1,0 +1,25 @@
+body{
+    /* background-color:rgb(7, 1, 1); */
+    background-image: linear-gradient(rgb(249, 144, 25) ,white 30%,green,transparent );
+    color: rgb(25, 25, 119);
+}
+#callback{
+    /* background: rgb(255,124,0); */
+    /* background: -webkit-linear-gradient(90deg, rgba(255,124,0,1) 13%, rgba(9,121,69,1) 59%, rgba(255,255,255,1) 81%); */
+    position: relative;
+    top: -150px;
+    /* right:100px; */
+    /* bottom: */
+    
+    font-size:60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+    
+}
+
+*{
+    margin:0px;
+    padding: 100px; 
+}
